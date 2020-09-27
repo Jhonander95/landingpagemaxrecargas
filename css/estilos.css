@@ -1,0 +1,27 @@
+header {
+
+}
+
+header img {
+    width: 120px;
+}
+
+.color-maxrecargas {
+    color: #40A629 !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    background-color: aliceblue !important;
+    border-radius: 5px !important;
+}
+
+.color-maxrecargas:hover {
+    color: #63df47 !important;
+    font-size: 20px !important;
+    border-radius: 10px !important;
+}
+
+main .carousel-inner img {
+    max-height: 80vh;
+    object-fit: fill;
+    /* filter: grayscale(70%); */
+}
