@@ -20,6 +20,10 @@ header img {
     border-radius: 10px !important;
 }
 
+main {
+    margin-top: 50px !important;
+}
+
 main .carousel-inner img {
     max-height: 80vh;
     object-fit: fill;
