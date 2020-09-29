@@ -29,3 +29,15 @@ main .carousel-inner img {
     object-fit: fill;
     /* filter: grayscale(70%); */
 }
+
+.social img {
+    width: 100px;
+}
+
+.social ul {
+    list-style: none;
+}
+
+footer {
+    background-color: #63df47;
+}
