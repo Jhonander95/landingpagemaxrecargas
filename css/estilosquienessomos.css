@@ -1,0 +1,16 @@
+.main-quienessomos {
+    height: 100vh;
+    margin-top: 50px !important;
+}
+
+.main-quienessomos .imagen-principal{
+    width: 80%;
+    height: 100%;
+}
+.main-quienessomos figure {
+    width: 70%;
+}
+
+.main-quienessomos figure img {
+    width: 100%;
+}
